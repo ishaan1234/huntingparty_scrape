@@ -3,3 +3,4 @@ homeharvest
 plotly
 pandas
 xlsxwriter
+statsmodel
