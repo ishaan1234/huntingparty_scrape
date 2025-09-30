@@ -2,3 +2,4 @@ streamlit
 homeharvest
 plotly
 pandas
+xlsxwriter
