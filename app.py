@@ -145,7 +145,7 @@ if scrape_button:
                 }
 
                 if property_types:
-                    kwargs["property_type"] = property_types if len(property_types) > 1 else property_types[0]
+                    kwargs["property_type"] = property_types
 
                 if radius > 0:
                     kwargs["radius"] = radius
